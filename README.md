@@ -20,10 +20,9 @@ Here are the list of dependencies
     - Download service key and save it in cred/ folder, name the file `serviceAccountKey.json`. to download the file go to : Project Settings -> Service Accounts -> Generate New Private Key
 
 3. Configure index.js
-    - go to line 8 on index.js and replace the `fireDatabaseUrl` with the database url of your firebase project
+    - Go to line 8 on index.js and replace the `fireDatabaseUrl` with the database url of your firebase project
 
 #### Run
   ```
   $ node index.js
-  
   ```
