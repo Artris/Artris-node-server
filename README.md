@@ -1,6 +1,7 @@
 # ARTris Backend Server
 
-Backend server for ARTris iOS app. Special thanks to [fridek](https://github.com/fridek) the core or our game engine is based on on his [Tetris project](https://github.com/dtoki/Threejs-Tetris) 
+This is the backend server for the ARTris iOS app - a multiplayer real-time 3D AR Tetris game built with ARKit, Node.js, and Firebase.
+Special thanks to [fridek](https://github.com/fridek) the core or our game engine is based on on his [Tetris project](https://github.com/dtoki/Threejs-Tetris) 
 
 ## Development
 
